@@ -1,6 +1,6 @@
 Installation / Running
 1. `git clone <repository-url>` this repository
-2. change into the new directory
+2. cd into this new directory
 3. `npm install` (wait for some time)
 4. `npm start` will run the app
 
